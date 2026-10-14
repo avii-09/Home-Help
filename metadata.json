@@ -1,0 +1,6 @@
+{
+  "name": "HomeHelp – Online Home Services Booking System",
+  "description": "Comprehensive, responsive online home services booking platform with dedicated Customer, Service Provider, and Admin dashboards, real-time booking lifecycle, and college project resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
